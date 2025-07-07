@@ -111,15 +111,6 @@ python train.py --epochs 15 --batch_size 64
 
 ---
 
-## **🎯 Results**  
-### **Sample Predictions**
-![Predictions](https://i.imgur.com/9ZvQYxP.png)
-
-### **Confusion Matrix**
-![Confusion Matrix](https://i.imgur.com/7VqRZn7.png)
-
----
-
 ## **📜 License**  
 Distributed under the MIT License. See `LICENSE` for more information.
 
