@@ -37,8 +37,6 @@ The **MNIST** dataset contains 70,000 grayscale images (28×28 pixels) of handwr
 | Training | 60,000 |
 | Test | 10,000 |
 
-**Sample Data Distribution**:  
-![Class Distribution](https://i.imgur.com/JRqKZQl.png)
 
 ---
 
@@ -110,8 +108,6 @@ python train.py --epochs 15 --batch_size 64
 | Recall | 99.1% |
 | F1-Score | 99.1% |
 
-**Training Progress**:  
-![Training History](https://i.imgur.com/8JtQZ3l.png)
 
 ---
 
